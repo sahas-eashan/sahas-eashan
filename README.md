@@ -1,7 +1,7 @@
 <!-- This must be inline HTML, not inside triple backticks -->
 <object
   type="image/svg+xml"
-  data="https://github.com/sahas-eashan/sahas-eashan/blob/main/animated-text.svg"
+  data="[https://github.com/sahas-eashan/sahas-eashan/blob/main/animated-text.svg](https://github.com/sahas-eashan/sahas-eashan/blob/main/animated-text.svg)"
 >
 <!-- fallback content if the SVG doesn't load -->
 </object>
