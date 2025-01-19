@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sahas Eashan</h1>
+<h1 align="center">
+  <!-- let's plop that fancy wave gif on the left -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" width="30" />
+  
+  Hi, I'm Sahas Eashan
+  
+  <!-- let's put that wave gif on the right too -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="30" />
+</h1>
 <h3 align="center">Electronics & Telecommunications Undergrad | Robotics Geek | Competitive Programmer 🚀</h3>
 
 <p align="center">
