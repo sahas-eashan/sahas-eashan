@@ -1,24 +1,22 @@
-# Hi there! 👋
+# Hi there, I'm Sahas Eashan! 👋
 
-Welcome to **my** GitHub profile!  
-I’m **Sahas-Eashan** (just pretend there's some fancy introduction here).
+### 🌟 Electronics & Telecommunications Undergrad | Robotics Enthusiast 🤖 | Competitive Programmer 💻
 
-## About Me
-- 🔭 Working on cool robotics and Webots simulations.
-- 🌱 Currently learning advanced C++ for e-puck.
-- 🤖 Obsessed with sensor fusion and microcontrollers.
-- ⚡ Fun fact: I once tried to make my robot dance to k-pop (didn't end well).
+- 🔭 Currently exploring **robotics** and **Webots simulations**.
+- 🌱 Actively learning advanced **C++** for robotics and competitive programming.
+- 🏫 Proud student at **University of Moratuwa**, Sri Lanka.
+- ⚡ Fun fact: Robotics and programming make up 90% of my caffeine-fueled days. ☕
 
-## Skills & Interests
-- **Languages**: C++, Python, (dabbling in Rust).
-- **Tools**: Webots, ROS, Git, GDB (when things go wrong).
-- **Hobbies**: Building robots, sipping coffee, binge-watching sci-fi.
+## 👨‍💻 About Me
+- 🚀 Passionate about combining hardware and software to create innovative robotic solutions.
+- 🤖 Active member of the **IEEE RAS Student Branch Chapter** at the University of Moratuwa.
+- 💬 Always open to discuss tech, robotics, and programming challenges.
+- 🌍 Based in Ambalangoda, Southern Province, Sri Lanka.
 
-## Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your.email@domain.com)
+## 📫 Let's Connect!
+- **LinkedIn**: [Sahas Eashan](https://linkedin.com/in/your-linkedin-url)
+- **Email**: sahaseashangalle@gmail.com
+- **Phone**: +94776413121
 
 ---
-> “We are all now connected by the Internet, like neurons in a giant brain.” — Stephen Hawking
-
+> **"Innovation distinguishes between a leader and a follower."** — Steve Jobs
