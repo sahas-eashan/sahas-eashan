@@ -1,14 +1,10 @@
-<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#00C6FF">
-    Welcome Aboard! I'm Sahas Eashan
-    <animate 
-      attributeName="fill" 
-      values="#00C6FF;#ffbf00;#00C6FF" 
-      dur="2s" 
-      repeatCount="indefinite"
-    />
-  </text>
-</svg>
+<!-- This must be inline HTML, not inside triple backticks -->
+<object
+  type="image/svg+xml"
+  data="https://raw.githubusercontent.com/USERNAME/REPO/main/animated-text.svg"
+>
+<!-- fallback content if the SVG doesn't load -->
+</object>
 <h3 align="center">Electronics & Telecommunications Undergrad | Robotics Geek | Competitive Programmer 🚀</h3>
 
 <p align="center">
