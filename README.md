@@ -1,8 +1,6 @@
-<!-- This must be inline HTML, not inside triple backticks -->
-<object
-  type="image/svg+xml"
-  data="[https://github.com/sahas-eashan/sahas-eashan/blob/main/animated-text.svg](https://github.com/sahas-eashan/sahas-eashan/blob/main/animated-text.svg)"
->
+<!-- Usually static, no animation in many browsers -->
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/animated-text.svg" alt="animated text" />
+
 <!-- fallback content if the SVG doesn't load -->
 </object>
 <h3 align="center">Electronics & Telecommunications Undergrad | Robotics Geek | Competitive Programmer 🚀</h3>
