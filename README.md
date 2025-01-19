@@ -1,5 +1,10 @@
-<!-- Usually static, no animation in many browsers -->
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/animated-text.svg" alt="animated text" />
+<object 
+  type="image/svg+xml" 
+  data="https://raw.githubusercontent.com/sahas-eashan/sahas-eashan/main/animated-text.svg"
+>
+  <!-- fallback message if SVG fails or SMIL isn't supported -->
+  <p>Animated text not supported in your browser.</p>
+</object>
 
 <!-- fallback content if the SVG doesn't load -->
 </object>
