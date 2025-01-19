@@ -1,12 +1,26 @@
-<h1 align="center">
-  <!-- let's plop that fancy wave gif on the left -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" width="30" />
+<svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- This text is "Welcome Aboard!" and we do a color-cycle animation on fill -->
+  <text x="50%" y="40%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#00C6FF">
+    Welcome Aboard!
+    <animate 
+      attributeName="fill" 
+      values="#00C6FF;#ffbf00;#00C6FF" 
+      dur="2s" 
+      repeatCount="indefinite"
+    />
+  </text>
   
-  Hi, I'm Sahas Eashan
-  
-  <!-- let's put that wave gif on the right too -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="30" />
-</h1>
+  <!-- Then another line: "I'm Sanjula Gathsara" with the same color animation. -->
+  <text x="50%" y="70%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#00C6FF">
+    I'm Sahas Eashan
+    <animate 
+      attributeName="fill" 
+      values="#00C6FF;#ffbf00;#00C6FF" 
+      dur="2s" 
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>
 <h3 align="center">Electronics & Telecommunications Undergrad | Robotics Geek | Competitive Programmer 🚀</h3>
 
 <p align="center">
