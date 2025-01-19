@@ -1,22 +1,28 @@
-# Hi there, I'm Sahas Eashan! 👋
+# Hi there! 👋
 
-### 🌟 Electronics & Telecommunications Undergrad | Robotics Enthusiast 🤖 | Competitive Programmer 💻
+I'm **Sahas Eashan**, a passionate robotics enthusiast and software developer.
 
-- 🔭 Currently exploring **robotics** and **Webots simulations**.
-- 🌱 Actively learning advanced **C++** for robotics and competitive programming.
-- 🏫 Proud student at **University of Moratuwa**, Sri Lanka.
-- ⚡ Fun fact: Robotics and programming make up 90% of my caffeine-fueled days. ☕
+## About Me
 
-## 👨‍💻 About Me
-- 🚀 Passionate about combining hardware and software to create innovative robotic solutions.
-- 🤖 Active member of the **IEEE RAS Student Branch Chapter** at the University of Moratuwa.
-- 💬 Always open to discuss tech, robotics, and programming challenges.
-- 🌍 Based in Ambalangoda, Southern Province, Sri Lanka.
+- 🔭 **Current Role**: Working on innovative robotics projects, focusing on sensor integration and autonomous navigation.
+- 🌱 **Learning**: Advancing my skills in C++ and exploring machine learning applications in robotics.
+- 🤖 **Interests**: Robotics, AI, sensor fusion, and microcontroller programming.
+- ⚡ **Fun Fact**: I once programmed a robot to solve a maze autonomously!
 
-## 📫 Let's Connect!
-- **LinkedIn**: [Sahas Eashan](https://linkedin.com/in/your-linkedin-url)
-- **Email**: sahaseashangalle@gmail.com
-- **Phone**: +94776413121
+## Skills
+
+- **Programming Languages**: C++, Python, Java
+- **Tools & Frameworks**: ROS, Webots, OpenCV
+- **Areas of Expertise**: 
+  - Robot simulation and control
+  - Sensor data processing
+  - Autonomous navigation algorithms
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sahas-eashan)
+- [Email](mailto:sahas.eashan@example.com)
 
 ---
-> **"Innovation distinguishes between a leader and a follower."** — Steve Jobs
+
+> "The best way to predict the future is to invent it." — Alan Kay
