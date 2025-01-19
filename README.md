@@ -6,17 +6,14 @@ I'm **Sahas Eashan**, a passionate robotics enthusiast and software developer.
 
 - 🔭 **Current Role**: Working on innovative robotics projects, focusing on sensor integration and autonomous navigation.
 - 🌱 **Learning**: Advancing my skills in C++ and exploring machine learning applications in robotics.
-- 🤖 **Interests**: Robotics, AI, sensor fusion, and microcontroller programming.
-- ⚡ **Fun Fact**: I once programmed a robot to solve a maze autonomously!
+- 🤖 **Interests**: Robotics, AI, and microcontroller programming.
 
 ## Skills
 
-- **Programming Languages**: C++, Python, Java
-- **Tools & Frameworks**: ROS, Webots, OpenCV
+- **Programming Languages**: C++, Python, Java , Micropython
+- **Tools & Frameworks**: Altium, Webots, Solidworks
 - **Areas of Expertise**: 
-  - Robot simulation and control
-  - Sensor data processing
-  - Autonomous navigation algorithms
+  - Robotics
 
 ## Connect with Me
 
