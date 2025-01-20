@@ -3,7 +3,7 @@
 
 <!-- fallback content if the SVG doesn't load -->
 </object>
-<h3 align="center">Electronics & Telecommunications Undergrad 🚀</h3>
+<h3 align="center">"An electronics and robotics enthusiast from Sri Lanka 🇱🇰, passionate about programming and innovation.🚀 "</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahas-eashan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
