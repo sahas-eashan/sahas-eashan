@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m a **Telecommunications Engineering Undergrad** at **University of Moratuwa**.
+- 🎓 I’m a **Electronics and Telecommunications Engineering Undergrad** at **University of Moratuwa**.
 - 🤖 Passionate about **Robotics**, **AI**, and building autonomous systems.
 - 🌱 Currently learning **Advanced C++**, **ROS**, and **Machine Learning** for robotics.
 - 🔭 Working on projects using **Webots** and **MicroPython**.
