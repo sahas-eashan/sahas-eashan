@@ -1,6 +1,10 @@
 <object 
   type="image/svg+xml" 
-  data="https://raw.githubusercontent.com/sahas-eashan/sahas-eashan/main/animated-text.svg"
+  data="
+
+https://github.com/user-attachments/assets/81889e0d-0c19-4c4c-b066-6b5a908e33d0
+
+"
 >
   <!-- fallback message if SVG fails or SMIL isn't supported -->
   <p>Animated text not supported in your browser.</p>
