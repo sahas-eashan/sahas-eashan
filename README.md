@@ -1,14 +1,5 @@
-<object 
-  type="image/svg+xml" 
-  data="
 
-https://github.com/user-attachments/assets/81889e0d-0c19-4c4c-b066-6b5a908e33d0
-
-"
->
-  <!-- fallback message if SVG fails or SMIL isn't supported -->
-  <p>Animated text not supported in your browser.</p>
-</object>
+![Hello (1) (2)](https://github.com/user-attachments/assets/8add9ebb-be0d-402a-bba0-a6d00b7b340f)
 
 <!-- fallback content if the SVG doesn't load -->
 </object>
