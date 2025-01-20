@@ -12,19 +12,14 @@
   </a>
 </p>
 
----
-
 ### 👨‍💻 About Me
 
-- 🎓 I’m a **Electronics and Telecommunications Engineering Undergrad** at **University of Moratuwa**.
-- 🤖 Passionate about **Robotics**, **AI**, and building autonomous systems.
-- 🌱 Currently learning **Advanced C++**, **ROS**, and **Machine Learning** for robotics.
-- 🔭 Working on projects using **Webots** and **MicroPython**.
-- 💬 Ask me about **Robotics Simulations**, **Microcontrollers**, or **Sensor Integration**.
-- ⚡ Fun fact: My robots fail fast but learn faster! 🤓
-
----
-
+- 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
+- 🤖 Currently working at **RoboticGen**.
+- 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.
+- 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IOT solutions.
+- ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
+  
 ### 🛠️ Skills & Tools
 
 <p align="left">
