@@ -12,6 +12,7 @@
   </a>
 </p>
 <p align="center">
+  
 ### 👨‍💻 About Me
 
 - 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
@@ -24,6 +25,7 @@
 ---
 
 <p align="center">
+  
 ### 🛠️ Skills & Tools
 
 <p align="center">
@@ -38,7 +40,8 @@
 
 
 ---
-
+<p align="center">
+ 
  ###  Connect with Me 
 <p align="center">
  
