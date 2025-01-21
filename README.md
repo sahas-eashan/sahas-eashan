@@ -49,7 +49,8 @@
 </p>
 
 <p align="right">
-![image](https://github.com/user-attachments/assets/a383c2dc-9378-42af-99a7-7c5859c0a8ec.) 
+![programmer](https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc)
+
 </p>
 ---
 
