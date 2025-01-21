@@ -86,9 +86,11 @@ An analog power supply design project with precise voltage and current control. 
 ### 🐍 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahas-eashan/sahas-eashan/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sahas-eashan/sahas-eashan/output/github-snake.svg" />
 </picture>
+
+
 ---
 
 
