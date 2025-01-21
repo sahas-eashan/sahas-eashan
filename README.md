@@ -82,6 +82,14 @@ An analog power supply design project with precise voltage and current control. 
 
 ---
 
+
+### 🐍 Contributions
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
+
+---
+
+
 ### 🐾 Fun Quote
 
 _"If it works, it's not luck; it's debugging."_ ✨
