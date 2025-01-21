@@ -68,18 +68,16 @@
 
 ---
 
-### 🌟 Featured Projects
-
 ### 🚀 Projects
 
-🤖 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project): 
-  A robot capable of performing various autonomous tasks such as maze navigation, bar counting, and box manipulation. Designed for the EN2533 Robot Design and Competition module.**
+🤖 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project):  
+A robot capable of performing various autonomous tasks such as maze navigation, bar counting, and box manipulation. Designed for the EN2533 Robot Design and Competition module.
 
-🛠️ [**Shoe Cleaning and Drying Machine**](https://github.com/sahas-eashan/Shoe-Cleaning-and-Drying-Machine--Engineering_Design_Project): 
-  A fully functional system that automates the cleaning and drying process for shoes. This project was part of our engineering design module. **
+🛠️ [**Shoe Cleaning and Drying Machine**](https://github.com/sahas-eashan/Shoe-Cleaning-and-Drying-Machine--Engineering_Design_Project):  
+A fully functional system that automates the cleaning and drying process for shoes. This project was part of our engineering design module.
 
-⚙️ [**Linear Power Supply (Analog Project)**](#): 
-  An analog power supply design project with precise voltage and current control. *(Repository not yet published.)**
+⚙️ [**Linear Power Supply (Analog Project)**](#):  
+An analog power supply design project with precise voltage and current control. *(Repository not yet published.)*
 
 
 ---
