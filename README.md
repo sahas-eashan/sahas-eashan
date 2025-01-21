@@ -19,7 +19,8 @@
 - 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.
 - 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IOT solutions.
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
-  
+
+---
 ### 🛠️ Skills & Tools
 
 <p align="left">
@@ -31,6 +32,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 </p>
+
+---
 
 ### 📬 Connect with Me
 
@@ -46,6 +49,7 @@
   </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
@@ -62,16 +66,6 @@
 - 🤖 [**Line Follower Robot**](https://github.com/sahas-eashan/line-follower): A line-following robot for competitive events.
 - 🛰️ [**Telemetry System**](https://github.com/sahas-eashan/telemetry-system): IoT-based real-time monitoring system.
 
----
-
-<p align="left">
-  <a href="https://linkedin.com/in/sahas-eashan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:sahaseashangalle@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
