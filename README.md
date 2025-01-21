@@ -49,7 +49,7 @@
 </p>
 
 <p align="right">
-  <img src=![image](https://github.com/user-attachments/assets/a383c2dc-9378-42af-99a7-7c5859c0a8ec) alt="My GIF" width="150" />
+![image](https://github.com/user-attachments/assets/a383c2dc-9378-42af-99a7-7c5859c0a8ec.) 
 </p>
 ---
 
