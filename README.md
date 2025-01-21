@@ -20,7 +20,6 @@
 - 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IOT solutions.
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
----
 
 ### 🛠️ Skills & Tools
 <img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?rs=1&pid=ImgDetMain">
