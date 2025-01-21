@@ -90,7 +90,7 @@
 ---
 
 ### 🌟 Featured Projects
-
+(img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc")
 - 🔥 [**Obstacle Avoiding Robot**](https://github.com/sahas-eashan/obstacle-avoiding-robot): A robot that autonomously avoids obstacles using distance sensors.
 - 🤖 [**Line Follower Robot**](https://github.com/sahas-eashan/line-follower): A line-following robot for competitive events.
 - 🛰️ [**Telemetry System**](https://github.com/sahas-eashan/telemetry-system): IoT-based real-time monitoring system.
