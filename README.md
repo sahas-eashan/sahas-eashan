@@ -21,6 +21,12 @@
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
 ---
+
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" alt="Programmer GIF" width="150" />
+</p>
+
 ### 🛠️ Skills & Tools
 
 <p align="left">
@@ -46,10 +52,6 @@
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" alt="Programmer GIF" width="150" />
 </p>
 
 ---
