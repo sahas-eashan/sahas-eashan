@@ -35,6 +35,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/></a>
 </p>
 
 ---
@@ -42,13 +43,13 @@
 ### Connect with Me
 
 <p>
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.com/invite/cRbrttDn" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://linkedin.com/in/your_linkedin_id" target="_blank">
+  <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@gmail.com" target="_blank">
+  <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
