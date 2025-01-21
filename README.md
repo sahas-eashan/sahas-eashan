@@ -25,13 +25,16 @@
 <p align="left">
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.ros.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/></a>
-  <a href="https://www.webots.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Cyberbotics_Webots_Logo.png" alt="Webots" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
+  <a href="https://www.altium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Altium_Designer_Logo.png" alt="Altium Designer" width="40" height="40"/></a>
+  <a href="https://www.solidworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SolidWorks_Logo.png" alt="SolidWorks" width="40" height="40"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cube.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/STMicroelectronics_logo.svg" alt="STM32Cube" width="40" height="40"/></a>
+  <a href="https://thonny.org/" target="_blank"><img src="https://thonny.org/static/common/img/logo.png" alt="Thonny" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.png" alt="Canva" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
----
 
 ### 📊 GitHub Stats
 
