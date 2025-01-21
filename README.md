@@ -32,13 +32,13 @@
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-### My Socials
+### 📬 Connect with Me
 
 <p align="left">
-  <a href="[https://discord.com/users/your_discord_id](https://discord.com/invite/cRbrttDn)" target="_blank">
+  <a href="https://discord.com/invite/cRbrttDn" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="[https://linkedin.com/in/your_linkedin_id](https://linkedin.com/in/sahas-eashan-55b35b29a)" target="_blank">
+  <a href="https://linkedin.com/in/your_linkedin_id" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
@@ -63,8 +63,6 @@
 - 🛰️ [**Telemetry System**](https://github.com/sahas-eashan/telemetry-system): IoT-based real-time monitoring system.
 
 ---
-
-### 📬 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/sahas-eashan" target="_blank">
