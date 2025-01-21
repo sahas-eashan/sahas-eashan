@@ -33,7 +33,6 @@
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
----
 
 ### 📬 Connect with Me
 
