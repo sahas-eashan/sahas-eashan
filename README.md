@@ -22,7 +22,6 @@
 
 ---
 
-
 <table>
   <tr>
     <td>
@@ -49,12 +48,11 @@
         </a>
       </p>
     </td>
-    <td align="right">
+    <td align="right" style="border: none;">
       <img src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" alt="Programmer GIF" width="200" />
     </td>
   </tr>
 </table>
-
 
 ---
 
