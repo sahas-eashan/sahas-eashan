@@ -17,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
-- 🤖 Currently working at **RoboticGen**.
-- 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.
-- 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IoT solutions.
-- ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
+ 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
+ 🤖 Currently working at **RoboticGen**.
+ 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.
+ 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IoT solutions.
+ ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
 ---
 
