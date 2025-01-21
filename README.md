@@ -61,13 +61,17 @@
 
 ### 📊 GitHub Stats
 
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahas-eashan&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-eashan&theme=radical" alt="Streak stats" />
 </p>
 
 ---
-
+  
+<div align="center">
+  
 ### 🚀 Projects
 
 🤖 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project):  
@@ -98,5 +102,5 @@ An analog power supply design project with precise voltage and current control. 
 
 _"If it works, it's not luck; it's debugging."_ ✨
 
-
 </div>
+
