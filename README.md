@@ -13,22 +13,21 @@
 </p>
 <p align="center">
   
+<div align="center">
+
 ### 👨‍💻 About Me
 
 - 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
 - 🤖 Currently working at **RoboticGen**.
 - 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.
-- 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IOT solutions.
+- 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IoT solutions.
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
-
 
 ---
 
-<p align="center">
-  
 ### 🛠️ Skills & Tools
 
-<p align="center">
+<p>
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -38,14 +37,11 @@
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-
 ---
-<p align="center">
- 
- ###  Connect with Me 
-<p align="center">
- 
-  <br>
+
+### Connect with Me
+
+<p>
   <a href="https://discord.com/users/your_discord_id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -57,8 +53,10 @@
   </a>
 </p>
 
-
 ---
+
+</div>
+
 
 <p align="center">
 ### 📊 GitHub Stats
