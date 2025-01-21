@@ -21,6 +21,9 @@
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
 
+---
+
+
 ### 🛠️ Skills & Tools
 <img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?rs=1&pid=ImgDetMain">
 
@@ -47,8 +50,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
