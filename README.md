@@ -55,10 +55,7 @@
 
 ---
 
-</div>
 
-
-<p align="center">
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -74,6 +71,8 @@
 - 🤖 [**Line Follower Robot**](https://github.com/sahas-eashan/line-follower): A line-following robot for competitive events.
 - 🛰️ [**Telemetry System**](https://github.com/sahas-eashan/telemetry-system): IoT-based real-time monitoring system.
 
+
+</div>
 
 ---
 
