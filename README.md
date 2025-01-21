@@ -67,7 +67,7 @@
 </p>
 
 ---
-<p align="center">
+
 ### 🌟 Featured Projects
 
 - 🔥 [**Obstacle Avoiding Robot**](https://github.com/sahas-eashan/obstacle-avoiding-robot): A robot that autonomously avoids obstacles using distance sensors.
@@ -75,10 +75,11 @@
 - 🛰️ [**Telemetry System**](https://github.com/sahas-eashan/telemetry-system): IoT-based real-time monitoring system.
 
 
-</div>
-
 ---
 
 ### 🐾 Fun Quote
 
 _"If it works, it's not luck; it's debugging."_ ✨
+
+
+</div>
