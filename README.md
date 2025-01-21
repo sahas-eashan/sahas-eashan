@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/sahas-eashan?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
-
+<p align="center">
 ### 👨‍💻 About Me
 
 - 🎓 I’m an **Electronics and Telecommunications Engineering Undergraduate** at **University of Moratuwa**.
@@ -23,7 +23,7 @@
 
 ---
 
-
+<p align="center">
 ### 🛠️ Skills & Tools
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 ---
 
-
+<p align="center">
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 ---
-
+<p align="center">
 ### 🌟 Featured Projects
 
 - 🔥 [**Obstacle Avoiding Robot**](https://github.com/sahas-eashan/obstacle-avoiding-robot): A robot that autonomously avoids obstacles using distance sensors.
