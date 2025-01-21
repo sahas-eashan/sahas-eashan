@@ -21,6 +21,8 @@
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
 ---
+
+
 <table style="border: none; width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Left Cell -->
@@ -50,31 +52,31 @@
         </a>
       </p>
 
-      <h3>Connect with Me</h3>
-      <p>
-        <a href="https://discord.com/users/your_discord_id" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-        </a>
-        <a href="https://linkedin.com/in/your_linkedin_id" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:your_email@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-      </p>
-    </td>
+   <h3>Connect with Me</h3>
+      
+  <p>
+    <a href="https://discord.com/users/your_discord_id" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://linkedin.com/in/your_linkedin_id" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your_email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</td>
 
-    <!-- Right Cell (GIF) -->
-    <td align="right" style="border: none; vertical-align: top;">
-      <img 
-        src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" 
-        alt="Programmer GIF" 
-        width="200" 
-      />
-    </td>
+  <!-- Right Cell (GIF) -->
+  <td align="right" style="border: none; vertical-align: top;">
+    <img
+      src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc"
+      alt="Programmer GIF"
+      width="200"
+    />
+  </td>
   </tr>
 </table>
-
 
 ---
 
