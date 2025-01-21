@@ -21,22 +21,37 @@
 - ⚡ Fun fact: I once told my robot to "take a break"—now it refuses to work without coffee! ☕🤖
 
 ---
-
-<table>
+<table style="border: none; width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
+    <!-- Left Cell -->
+    <td style="vertical-align: top;">
       <h3>🛠️ Skills & Tools</h3>
-      <p align="left">
-        <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-        <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-        <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
+      <p>
+        <a href="https://cplusplus.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        </a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        </a>
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+        </a>
+        <a href="https://github.com/" target="_blank">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+        </a>
       </p>
+
       <h3>Connect with Me</h3>
-      <p align="left">
+      <p>
         <a href="https://discord.com/users/your_discord_id" target="_blank">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
         </a>
@@ -48,11 +63,18 @@
         </a>
       </p>
     </td>
-    <td align="right" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" alt="Programmer GIF" width="200" />
+
+    <!-- Right Cell (GIF) -->
+    <td align="right" style="border: none; vertical-align: top;">
+      <img 
+        src="https://github.com/user-attachments/assets/09355f6d-d865-4e47-8547-c5658e3215bc" 
+        alt="Programmer GIF" 
+        width="200" 
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 
