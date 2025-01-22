@@ -54,6 +54,7 @@
       height="40"
     />
   </a>
+
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
     <img
@@ -63,7 +64,8 @@
       height="40"
     />
   </a>
-  <!-- Gmail -->
+
+  <!-- Gmail (using an open-source Gmail SVG) -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
     <img
       src="https://www.svgrepo.com/show/281786/google-gmail.svg"
@@ -72,6 +74,7 @@
       height="40"
     />
   </a>
+
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-profile-link" target="_blank">
     <img
@@ -81,6 +84,7 @@
       height="40"
     />
   </a>
+
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
     <img
@@ -90,19 +94,8 @@
       height="40"
     />
   </a>
-  <!-- Project Euler -->
-  <a href="https://projecteuler.net/profile/your-profile-link" target="_blank">
-    <!-- Using Project Euler’s favicon as a small icon -->
-    <img
-      src="https://projecteuler.net/favicon-32x32.png"
-      alt="Project Euler"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
-</p>
 
 ---
 
