@@ -44,31 +44,30 @@
 
 ### Socials
 
-### Connect with Me
-
 <p>
   <!-- Discord -->
   <a href="https://discord.com/invite/cRbrttDn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-circle&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Gmail -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-profile-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-circle&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-circle&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
 </p>
+
 
 ---
   
