@@ -42,17 +42,32 @@
 
 ---
 
-### Connect with Me
+### Socials
 
 <p>
+  <!-- Discord -->
   <a href="https://discord.com/invite/cRbrttDn" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-circle&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Gmail -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-circle&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-circle&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <!-- ProjectEuler -->
+  <a href="https://projecteuler.net/profile/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/badge/ProjectEuler-FFFFFF?style=flat-circle&logo=projecteuler&logoColor=black" alt="ProjectEuler" />
   </a>
 </p>
 
