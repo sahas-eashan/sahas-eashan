@@ -65,8 +65,12 @@
   <a href="https://www.hackerrank.com/profile/sahas_eashan" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-circle&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-
+  <!-- PicoCTF -->
+  <a href="https://play.picoctf.org/users/sahas_eashan" target="_blank">
+    <img src="https://img.shields.io/badge/PicoCTF-1E90FF?style=flat-circle&logo=c&logoColor=white" alt="PicoCTF" />
+  </a>
 </p>
+
 
 
 ---
