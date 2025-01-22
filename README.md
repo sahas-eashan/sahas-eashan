@@ -44,69 +44,30 @@
 
 ### Socials
 
+### Connect with Me
+
 <p>
   <!-- Discord -->
   <a href="https://discord.com/invite/cRbrttDn" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
-      alt="Discord"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" />
   </a>
-
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-
-  <!-- Gmail (using an open-source Gmail SVG) -->
+  <!-- Gmail -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
-    <img
-      src="https://www.svgrepo.com/show/281786/google-gmail.svg"
-      alt="Gmail"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-profile-link" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-      alt="LeetCode"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
   </a>
-
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
-      alt="HackerRank"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" />
   </a>
-</p>
 
-
----
-
-
-### 📊 GitHub Stats
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahas-eashan&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-eashan&theme=radical" alt="Streak stats" />
 </p>
 
 ---
