@@ -75,6 +75,16 @@
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahas-eashan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-eashan&theme=radical" alt="Streak stats" />
+</p>
 
 
 ---
