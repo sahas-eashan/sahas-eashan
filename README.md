@@ -47,27 +47,27 @@
 <p>
   <!-- Discord -->
   <a href="https://discord.com/invite/cRbrttDn" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-circle&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" />
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <!-- Gmail -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-circle&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-circle&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" />
   </a>
   <!-- ProjectEuler -->
   <a href="https://projecteuler.net/profile/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/ProjectEuler-FFFFFF?style=flat-circle&logo=projecteuler&logoColor=black" alt="ProjectEuler" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codewars/codewars-original.svg" alt="ProjectEuler" width="40" height="40" />
   </a>
 </p>
 
