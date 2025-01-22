@@ -58,11 +58,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/your-profile-link" target="_blank">
+  <a href="https://leetcode.com/u/sahas_eashan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-circle&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sahas_eashan" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-circle&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
