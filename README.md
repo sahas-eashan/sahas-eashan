@@ -42,7 +42,7 @@
 
 ---
 
-### Socials
+### Find Me Online
 
 <p>
   <!-- Discord -->
@@ -68,6 +68,10 @@
   <!-- PicoCTF -->
   <a href="https://play.picoctf.org/users/sahas_eashan" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-1E90FF?style=flat-circle&logo=c&logoColor=white" alt="PicoCTF" />
+  </a>
+  <!-- Coursera -->
+  <a href="https://www.coursera.org/user/e1056ceef075a6f2f9bb7def08372453" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-circle&logo=coursera&logoColor=white" alt="Coursera" />
   </a>
 </p>
 
