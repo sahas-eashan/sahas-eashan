@@ -47,28 +47,61 @@
 <p>
   <!-- Discord -->
   <a href="https://discord.com/invite/cRbrttDn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
+      alt="Discord"
+      width="40"
+      height="40"
+    />
   </a>
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sahas-eashan-55b35b29a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />
   </a>
   <!-- Gmail -->
   <a href="mailto:sahaseashangalle@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
+    <img
+      src="https://www.svgrepo.com/show/281786/google-gmail.svg"
+      alt="Gmail"
+      width="40"
+      height="40"
+    />
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/your-profile-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+      alt="LeetCode"
+      width="40"
+      height="40"
+    />
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/your-profile-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg"
+      alt="HackerRank"
+      width="40"
+      height="40"
+    />
   </a>
-  <!-- ProjectEuler -->
+  <!-- Project Euler -->
   <a href="https://projecteuler.net/profile/your-profile-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codewars/codewars-original.svg" alt="ProjectEuler" width="40" height="40" />
+    <!-- Using Project Euler’s favicon as a small icon -->
+    <img
+      src="https://projecteuler.net/favicon-32x32.png"
+      alt="Project Euler"
+      width="40"
+      height="40"
+    />
   </a>
+</p>
+
 </p>
 
 ---
