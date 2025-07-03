@@ -1,5 +1,8 @@
-
-![Hello (1) (2)](https://github.com/user-attachments/assets/8add9ebb-be0d-402a-bba0-a6d00b7b340f)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Sahas Eashan <div><img align="center" src="https://komarev.com/ghpvc/?username=PankajaBalasooriya&color=brightgreen&label=Profile+Views" height="20" width="120">
+</div></h1> 
 
 <!-- fallback content if the SVG doesn't load -->
 </object>
