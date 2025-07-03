@@ -26,6 +26,7 @@
 🤖 Currently working at **RoboticGen**.  
 🌱 Currently learning **Machine Learning**, **Flutter**, and **Raspberry Pi**.  
 🔭 Currently engaged in projects using **Raspberry Pi** and **MicroPython**, crafting IoT solutions.  
+
 ---
 
 ### 🛠️ Skills & Tools
