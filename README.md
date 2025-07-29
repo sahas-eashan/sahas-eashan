@@ -100,10 +100,14 @@
 Designed and developed an omni-directional robot for the Engineering Design Realization (EDR) module. Features optimized Mecanum wheel configuration, embedded control systems, advanced sensor integration, and autonomous navigation capabilities.
 
 🏆 [**RoboGames 2024 – University Category (2nd Runners-Up)**](https://github.com/sahas-eashan/BB-Alr-8)  
-Developed simulation and real-world robotic solutions for three challenge rounds: maze navigation via color sequence, survivor rescue in fire maze scenarios, and real-world object matching and manipulation. Utilized Raspberry Pi 5, Kobuki base, and Kinect sensor with multithreaded motor control and HSV-based object tracking.
+Developed simulation and real-world robotic solutions for three challenge rounds: maze navigation via color sequence, survivor rescue in fire maze scenarios, and real-world object matching and manipulation. Utilized Raspberry Pi 5, Kobuki base, and Kinect sensor with multithreaded motor control, HSV-based object tracking, and advanced computer vision algorithms for precise color detection and object recognition.
 
 🎯 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project)  
 Created a modular autonomous robot capable of line navigation, maze solving, color line following, and precise box manipulation. Features custom robotic arm and chassis designed in SolidWorks with advanced control algorithms.
+
+### 👁️ **Computer Vision & Image Processing**
+📷 **RoboGames Computer Vision System**  
+Implemented sophisticated computer vision pipeline using Kinect camera for real-time color matching and object recognition. Developed HSV color space algorithms for robust color detection under varying lighting conditions, enabling precise object identification and tracking for autonomous robotic manipulation tasks.
 
 ### 💻 **AI & Machine Learning**
 🧠 [**Agentic AI Practice**](https://github.com/sahas-eashan/Agentic_AI_Practice)  
@@ -127,8 +131,6 @@ Designed a precision 10V, 10A linear power supply featuring advanced voltage reg
 ### 🌱 **Sustainability & Innovation**
 🌊 [**Bioplastic Revolution – Ocean's Gift**](https://github.com/sahas-eashan/Bioplastic-Revolution)  
 Spearheaded a sustainable initiative to combat marine plastic pollution through innovative biodegradable cling films and bags created from Sri Lankan seaweed. Encompasses seaweed farming partnerships, marine pollution tracking systems, and comprehensive environmental impact assessment.
-
-
 ---
 
 ### 🐍 Contributions
