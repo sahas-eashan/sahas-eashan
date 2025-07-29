@@ -105,6 +105,12 @@ Developed simulation and real-world robotic solutions for three challenge rounds
 🎯 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project)  
 Created a modular autonomous robot capable of line navigation, maze solving, color line following, and precise box manipulation. Features custom robotic arm and chassis designed in SolidWorks with advanced control algorithms.
 
+🐭 [**MicroMouse V1 2023**](https://github.com/sahas-eashan/MicroMouseV1_2023)  
+Developed an autonomous maze-solving robot featuring advanced pathfinding algorithms, precise motor control, and real-time maze mapping capabilities. Implemented flood-fill algorithms and optimized navigation strategies for competitive micromouse challenges.
+
+⚡ [**FastLine Follower – Speed Obo Robotics Gen3**](https://github.com/sahas-eashan/speed-obo-robotics-team-gen3)  
+Engineered a high-speed line following robot with advanced sensor arrays, PID control systems, and optimized chassis design for maximum velocity and precision. Features real-time path prediction and dynamic speed adjustment for competitive line following events.
+
 ### 👁️ **Computer Vision & Image Processing**
 📷 **RoboGames Computer Vision System**  
 Implemented sophisticated computer vision pipeline using Kinect camera for real-time color matching and object recognition. Developed HSV color space algorithms for robust color detection under varying lighting conditions, enabling precise object identification and tracking for autonomous robotic manipulation tasks.
