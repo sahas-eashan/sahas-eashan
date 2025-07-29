@@ -131,6 +131,7 @@ Designed a precision 10V, 10A linear power supply featuring advanced voltage reg
 ### 🌱 **Sustainability & Innovation**
 🌊 [**Bioplastic Revolution – Ocean's Gift**](https://github.com/sahas-eashan/Bioplastic-Revolution)  
 Spearheaded a sustainable initiative to combat marine plastic pollution through innovative biodegradable cling films and bags created from Sri Lankan seaweed. Encompasses seaweed farming partnerships, marine pollution tracking systems, and comprehensive environmental impact assessment.
+
 ---
 
 ### 🐍 Contributions
