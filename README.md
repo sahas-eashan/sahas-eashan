@@ -93,20 +93,43 @@
   
 <div align="center">
   
-### 🚀 Projects
+## 🚀 Projects
 
-🤖 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project):  
-A robot capable of performing various autonomous tasks such as maze navigation, bar counting, and box manipulation. Designed for the EN2533 Robot Design and Competition module.
+### 🤖 **Robotics & Automation**
+🔧 [**Omni-Directional Robot**](https://github.com/sahas-eashan/OmniDirectionalRobot-EN2160)  
+Designed and developed an omni-directional robot for the Engineering Design Realization (EDR) module. Features optimized Mecanum wheel configuration, embedded control systems, advanced sensor integration, and autonomous navigation capabilities.
 
-🛠️ [**Shoe Cleaning and Drying Machine**](https://github.com/sahas-eashan/Shoe-Cleaning-and-Drying-Machine--Engineering_Design_Project):  
-A fully functional system that automates the cleaning and drying process for shoes. This project was part of our engineering design module.
+🏆 [**RoboGames 2024 – University Category (2nd Runners-Up)**](https://github.com/sahas-eashan/BB-Alr-8)  
+Developed simulation and real-world robotic solutions for three challenge rounds: maze navigation via color sequence, survivor rescue in fire maze scenarios, and real-world object matching and manipulation. Utilized Raspberry Pi 5, Kobuki base, and Kinect sensor with multithreaded motor control and HSV-based object tracking.
 
-⚙️ [**Linear Power Supply (Analog Project)**](#):  
-An analog power supply design project with precise voltage and current control. *(Repository not yet published.)*
+🎯 [**Robotic Design Project**](https://github.com/sahas-eashan/Robotic-Design-Project)  
+Created a modular autonomous robot capable of line navigation, maze solving, color line following, and precise box manipulation. Features custom robotic arm and chassis designed in SolidWorks with advanced control algorithms.
+
+### 💻 **AI & Machine Learning**
+🧠 [**Agentic AI Practice**](https://github.com/sahas-eashan/Agentic_AI_Practice)  
+Developed intelligent AI agent systems including web search and finance agents with multi-agent collaboration capabilities. Created specialized AI agent for PDF document processing and analysis, showcasing advanced agent orchestration and natural language processing.
+
+### 🌐 **Web Development**
+🌊 [**Bioplastics Revolution Website**](https://github.com/sahas-eashan/WEB_bioplastics_revolution_)  
+Built a comprehensive React-based website for the Bioplastics Revolution project, featuring modern UI/UX design, responsive layouts, and interactive elements to showcase sustainable marine plastic solutions and seaweed-based biodegradable products.
+
+### 🔬 **IoT & Embedded Systems**
+💊 [**ESP32 Medibox Simulation – EN2853**](https://github.com/sahas-eashan/ESP32-Medibox-Project---EN2853)  
+Developed a fully functional simulated Medibox using ESP32 microcontroller. Features intelligent medicine reminders, comprehensive environmental monitoring (temperature, humidity), and multi-channel alerts via onboard display and push notifications for enhanced patient safety.
+
+🧹 [**Shoe Cleaning and Drying Machine**](https://github.com/sahas-eashan/Shoe-Cleaning-and-Drying-Machine--Engineering_Design_Project)  
+Engineered a fully automated shoe cleaning and drying system with Arduino-based control, custom PCB design, and precision-engineered enclosure. Streamlines footwear maintenance through intelligent automation.
+
+### ⚡ **Hardware & Electronics**
+🔋 **Linear Power Supply Design**  
+Designed a precision 10V, 10A linear power supply featuring advanced voltage regulation, current limiting, short-circuit protection, and thermal management. Includes double-layer PCB design, comprehensive simulation analysis, and optimized thermal enclosure.
+
+### 🌱 **Sustainability & Innovation**
+🌊 [**Bioplastic Revolution – Ocean's Gift**](https://github.com/sahas-eashan/Bioplastic-Revolution)  
+Spearheaded a sustainable initiative to combat marine plastic pollution through innovative biodegradable cling films and bags created from Sri Lankan seaweed. Encompasses seaweed farming partnerships, marine pollution tracking systems, and comprehensive environmental impact assessment.
 
 
 ---
-
 
 ### 🐍 Contributions
 
