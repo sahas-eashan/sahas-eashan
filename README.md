@@ -108,7 +108,7 @@ Created a modular autonomous robot capable of line navigation, maze solving, col
 🐭 [**MicroMouse V1 2023**](https://github.com/sahas-eashan/MicroMouseV1_2023)  
 Developed an autonomous maze-solving robot featuring advanced pathfinding algorithms, precise motor control, and real-time maze mapping capabilities. Implemented flood-fill algorithms and optimized navigation strategies for competitive micromouse challenges.
 
-⚡ [**FastLine Follower – Speed Obo Robotics Gen3**](https://github.com/sahas-eashan/speed-obo-robotics-team-gen3)  
+⚡ [**FastLine Follower**](https://github.com/sahas-eashan/speed-obo-robotics-team-gen3)  
 Engineered a high-speed line following robot with advanced sensor arrays, PID control systems, and optimized chassis design for maximum velocity and precision. Features real-time path prediction and dynamic speed adjustment for competitive line following events.
 
 ### 👁️ **Computer Vision & Image Processing**
